@@ -1,0 +1,12 @@
+body{
+    background: black;
+    color: white;
+    border: 5px white;
+    margin: 0;
+
+}
+
+form{
+    text-align: center;
+    border: 20px white;
+}
